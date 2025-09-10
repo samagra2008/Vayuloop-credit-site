@@ -29,4 +29,4 @@ Website
 Visit our Live Website to learn more about our offerings and impact.
 
 Contribution
-This repository represents our web presence. Contributions can include improvements to website content and design. Please contact us at [contact@yourfirmemail.com] for collaboration or project inquiries.
+This repository represents our web presence. Contributions can include improvements to website content and design. Please contact us at [lokendrasingh163@gmail.com] for collaboration or project inquiries.
